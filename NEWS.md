@@ -1,3 +1,11 @@
+# nycflights13 0.2.1
+
+* nycflights imports tibble so you get nice printing even when no other
+  tidyverse package is loaded.
+
+* `airports` now has a `tzone` column that contains the IANA time zone
+  for the airport (#15).
+
 # nycflights13 0.2.0
 
 * `airlines`: `carrier` columns are characters instead of factors (#2).
@@ -6,8 +14,8 @@
 
 * `flights`:
     
-    * new `date` variable combines `year`, `month`, and `day` into a single 
-      variable (#11).
+    * new `time_hour` variable combines `year`, `month`, `day`, and 
+      `hour` into a single variable (#11).
 
     * new `sched_dep_time` and `sched_arr_time` variables give scheduled 
       departure and  arrival times - these are more appropriate for connecting 
