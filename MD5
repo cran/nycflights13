@@ -1,9 +1,9 @@
-ef709bd997b9df56780ba849df19b92a *DESCRIPTION
-dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
-3de3991d1994ff60db9f739f35c932cd *NEWS.md
+4a786738cb9054bc9f80f0e8de6a90fc *DESCRIPTION
+2a207a9258970c0ae6ab72a3b0c2d1e4 *NAMESPACE
+069e9561de76d251757f64f1f352c96c *NEWS.md
 1e4435c9001175fe43662279d4fd2ce3 *R/airlines.R
 accc9a653d784af17aebf9cc6c0bc7b8 *R/airport.R
-05c4dfd8c265bcf3440fd5ad17307ab4 *R/flights.R
+02eea395c6a6d0a4c4ec65df750e6bba *R/flights.R
 0c75451b3b076d603b1fbeee37feeb11 *R/planes.R
 7937927954255190c1f49f9d01b6ff8e *R/weather.R
 8070f8de9162581f178d6fca8ef264c1 *README.md
@@ -13,8 +13,8 @@ accc9a653d784af17aebf9cc6c0bc7b8 *R/airport.R
 dd745bbd41c0acc3d21c9bd09fe8f90d *data/flights.rda
 c7e4f1f0a08c0b5998ea5158c6920156 *data/planes.rda
 d15a77c11b126e271f1f6765e9b303da *data/weather.rda
-2f99ec7652de26547394f3ac1a64474f *man/airlines.Rd
-0a903b3fd1af45a9050b5ca06ced2a05 *man/airports.Rd
-4f8238a90c46c6bc5abb41e2a84a6ffb *man/flights.Rd
-479e9f9eea4bbfd04b8291d29e24f155 *man/planes.Rd
-6f4fa37a31b0a60cf093cfa8bd56af3e *man/weather.Rd
+deb7d3c1c5fe347be8ffb45b1488c8ee *man/airlines.Rd
+682d250408e6b5a4be3844712ee20336 *man/airports.Rd
+2699ec2969ec3150f00d082a37520a46 *man/flights.Rd
+3753450a1230669002df530ab550d953 *man/planes.Rd
+76baaf3bc79cb431d0b83e25a3f0f5a8 *man/weather.Rd

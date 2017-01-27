@@ -1,3 +1,7 @@
+# nycflights13 0.2.2
+
+* Import function from tibble to suppress R CMD check NOTE.
+
 # nycflights13 0.2.1
 
 * nycflights imports tibble so you get nice printing even when no other
